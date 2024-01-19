@@ -1,0 +1,15 @@
+{
+    "name": "atom-utils",
+    "private": true,
+    "version": "0.0.1",
+    "type": "module",
+    "license": "ISC",
+    "author": "JackBello",
+    "repository": {
+        "url": "git+https://github.com/JackBello/atom-template.git"
+    },
+    "bugs": {
+        "url": "https://github.com/JackBello/atom-template/issues",
+        "email": "jacobello2000@outlook.com"
+    }
+}
